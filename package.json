@@ -1,5 +1,9 @@
 {
   "name": "smuttysearch",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daedreem/Smutty-Search.git"
+  },
   "private": true,
   "version": "0.0.0",
   "type": "module",
